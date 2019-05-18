@@ -1,15 +1,15 @@
-function getProductList(){
+ï»¿function getProductList(){
     return {
         "products": [
           {
             "id": "product-id-1",
-            "name": "Krzes³o",
+            "name": "KrzesÅ‚o",
             "price": {
               "amount": "45.99",
               "currency": "PLN"
             },
             "description": {
-              "text": "Bardzo wygodne krzes³o"
+              "text": "Bardzo wygodne krzesÅ‚o"
             },
             "image": {
               "url": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
@@ -23,7 +23,7 @@ function getProductList(){
               "currency": "PLN"
             },
             "description": {
-              "text": "Notatnik w którym mo¿na pisaæ o³ówkiem. D³ugopisem te¿."
+              "text": "Notatnik w ktÃ³rym moÅ¼na pisaÄ‡ oÅ‚Ã³wkiem. DÅ‚ugopisem teÅ¼."
             },
             "image": {
               "url": "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1566&q=80"
@@ -31,13 +31,13 @@ function getProductList(){
           },
           {
             "id": "product-id-3",
-            "name": "Kamieñ",
+            "name": "KamieÅ„",
             "price": {
               "amount": "1000.00",
               "currency": "PLN"
             },
             "description": {
-              "text": "Ska³a spoista, zwiêz³a bez wzglêdu na jej rodzaj genetyczny, wielkoœæ frakcji i sk³ad mineralogiczny."
+              "text": "SkaÅ‚a spoista, zwiÄ™zÅ‚a bez wzglÄ™du na jej rodzaj genetyczny, wielkoÅ›Ä‡ frakcji i skÅ‚ad mineralogiczny."
             },
             "image": {
               "url": "https://images.unsplash.com/photo-1447616061459-f7d9b9329bd6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
@@ -51,7 +51,7 @@ function getProductList(){
               "currency": "PLN"
             },
             "description": {
-              "text": "Na ca³ym œwiecie roœnie obecnie oko³o 3 bilionów 40 miliardów drzew."
+              "text": "Na caÅ‚ym Å›wiecie roÅ›nie obecnie okoÅ‚o 3 bilionÃ³w 40 miliardÃ³w drzew."
             },
             "image": {
               "url": "https://images.unsplash.com/photo-1458966480358-a0ac42de0a7a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
@@ -65,7 +65,7 @@ function getProductList(){
               "currency": "PLN"
             },
             "description": {
-              "text": "Kwiatek, potrafi rosn¹æ."
+              "text": "Kwiatek, potrafi rosnÄ…Ä‡."
             },
             "image": {
               "url": "https://images.unsplash.com/photo-1507290439931-a861b5a38200?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2390&q=80"
